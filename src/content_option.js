@@ -1,47 +1,51 @@
-const logotext = "JOHN";
+const logotext = "ANANT";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Anant Sharma",
+    description: "I’m Anant Sharma, pre-final year at IIIT Allahabad, Full stack devloper uses MERN and gets inspired from Anime",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Anant Sharma",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
-        third: "I develop mobile apps",
+        third: "I binge watch Anime",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    //description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "A bit about my self",
+    aboutme: "I'm Anant, a pre-final year student at IIITA, pursuing a degree in Information Technology. I am a quick learner with a strong foundation of skills developed through my studies and various projects. I have a deep passion for software engineering and a genuine excitement for building websites. I'am an avid reader delving into mystery, thrillers and romance. To maintain the balance of life, I dabble in Anime and football from time to time. ",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Fresher",
+        where: "IIITA",
+        date: "2023-present",
     },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
-    },
+    // {
+    //     jobtitle: "Head Of Public Relations",
+    //     where: "Effervescence-Cultural Fest of IIITA",
+    //     date: "2023-present",
+    // },
+    // {
+    //     jobtitle: "Member: Robotics Wing",
+    //     where: "Tesla- Electronics Society",
+    //     date: "2022-2023",
+    // },
 ];
 
 const skills = [{
-        name: "Python",
+        name: "C/C++",
         value: 90,
     },
     {
-        name: "Djano",
+        name: "JAVA",
+        value: 50,
+    },
+    {
+        name: "MySQL",
         value: 85,
     },
     {
@@ -50,25 +54,37 @@ const skills = [{
     },
     {
         name: "React",
+        value: 70,
+    },
+    {
+        name: "MongoDB",
         value: 60,
     },
     {
-        name: "Jquery",
-        value: 85,
+        name: "Express",
+        value: 60,
+    },
+    {
+        name: "NodeJS",
+        value: 50,
+    },
+    {
+        name: "Firebase",
+        value: 60,
     },
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Overall Coordinator- Nirmiti: The Arts Society",
+        description: "Responsible for managing the budget, planning and organising various art events throughout the year.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Head of Public Relations- Effervescence: Cultural Fest of IIITA",
+        description: "Responsible for participation, maintaining mutually beneficial relationships with other institutions and inviting various guests and artists to the event.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Member- Robotics Wing, TESLA",
+        description: "Organised events and workshops for students in the robotics domain and worked with CIR Lab IIITA",
     },
 ];
 
@@ -80,7 +96,7 @@ const dataportfolio = [{
     {
         img: "https://picsum.photos/400/800/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        link: "https://github.com/antsharma/hackout-23",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
