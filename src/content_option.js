@@ -95,7 +95,7 @@ const dataportfolio = [{
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Flipkart GRID 5.0 Semi finalists",
         link: "https://github.com/antsharma/hackout-23",
     },
     {
@@ -105,8 +105,8 @@ const dataportfolio = [{
     },
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Chat application using socket programming and AES encryption along with Diffie-Hellman Key exchange",
+        link: "https://github.com/antsharma/Network-security-AES-chat-app",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
